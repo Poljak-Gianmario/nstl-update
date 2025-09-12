@@ -1,2 +1,19 @@
-
-prova
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Fetched from remote repo on 2025-09-12 -->
+<configuration>
+    <files>
+        <file path="${user.dir}/target/NSTLabelEditorColor-1.0-SNAPSHOT.jar"
+              uri="file:${user.dir}/target/NSTLabelEditorColor-1.0-SNAPSHOT.jar"
+              mainClass="org.elebor.NstLabelEditorColor"
+              classpath="true"/>
+        <file path="${user.dir}/src/main/resources/lib/comm.jar"
+              uri="file:${user.dir}/src/main/resources/lib/comm.jar"
+              classpath="true"/>
+        <file path="${user.dir}/src/main/resources/lib/HtmlViewer.jar"
+              uri="file:${user.dir}/src/main/resources/lib/HtmlViewer.jar"
+              classpath="true"/>
+        <file path="${user.dir}/src/main/resources/lib/ui.jar"
+              uri="file:${user.dir}/src/main/resources/lib/ui.jar"
+              classpath="true"/>
+    </files>
+</configuration>
