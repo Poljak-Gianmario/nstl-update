@@ -15,5 +15,8 @@
         <file path="${user.dir}/src/main/resources/lib/ui.jar"
               uri="file:${user.dir}/src/main/resources/lib/ui.jar"
               classpath="true"/>
+        <file path="${user.dir}/src/main/resources/lib/ui.jar"
+              uri="file:${user.dir}/src/main/resources/lib/ui.jar"
+              classpath="true"/>
     </files>
 </configuration>
