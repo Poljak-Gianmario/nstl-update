@@ -2,7 +2,7 @@
 <!-- Fetched from remote repo on 2025-09-12 try -->
 <configuration>
     <properties>
-        <property key="default.launcher.main.class" value="org.elebor.nastratrice_nst3000.NstLabelEditorColor"/>
+        <property key="default.launcher.main.class" value="org.elebor.NstLabelEditorColor"/>
     </properties>
     <files>
         <file path="${user.dir}/target/NSTLabelEditorColor-1.0-SNAPSHOT.jar"
